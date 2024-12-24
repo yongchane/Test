@@ -1,1 +1,1 @@
-# smu_middle_project
+# 소셜로그인, 실시간 채팅 연습
